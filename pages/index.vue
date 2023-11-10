@@ -1,3 +1,8 @@
+<script setup lang="ts">
+definePageMeta({
+    layout: 'custom'
+})
+</script>
 <template>
     <div class="relative" id="home">
         <div aria-hidden="true" class="absolute inset-0 grid grid-cols-2 -space-x-52 opacity-40 dark:opacity-20">
